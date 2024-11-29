@@ -20,7 +20,7 @@ class TodoItem(BaseModel):
 todo_list = [
     TodoItem(id=1, task="shopping", completed=False), 
     TodoItem(id=2, task="cleaning", completed=False), 
-    TodoItem(id=3, task="cooking", completed=False), 
+    TodoItem(id=3, task="cooking", completed=False),
     TodoItem(id=4, task="coding", completed=False)
 ]
 
